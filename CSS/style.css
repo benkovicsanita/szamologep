@@ -1,0 +1,48 @@
+.szamok {
+    color: white;
+    text-align: center;
+}
+
+.muveletek {
+    color: black;
+    background-color: #ffc107;
+    text-align: center;
+}
+
+.egyenloseg {
+    background-color: turquoise;
+}
+
+.szamologep {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    width: 300px;
+    height: 300px;
+    /* border: solid 1px red; */
+    border-style: inset;
+    border-width: 7px;
+    border-color: grey;
+    
+}
+
+.sor {
+    display: flex;
+    width: 100%;
+    height: 20%;
+}
+
+.gomb {
+    margin: 2px;
+    width: 25%;
+}
+
+#kijelzo {
+    width: 100%;
+    margin: 2px;
+    text-align: right;
+}
+
+body {
+    background-color: lightgrey
+}
